@@ -26,6 +26,8 @@
 
 // media queries: (http://babich.biz/responsive-design-best-practices/) - http://include-media.com/ (https://davidwalsh.name/sass-media-query)
 
+@import '../../mfa_cmn/scss/settings/variables';
+
 @import "normalize";
 @import 'tools/rem';
 @import 'settings/variables';
